@@ -1,0 +1,7 @@
+Free API providers:
+randomuser.me
+
+API is not easy to read quickly. So, search json formatter on google.
+And you will able to find one with the domain name - jsonformatter.org
+
+Accessing APIs through "xmlhttprequest"
