@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+body {
+    background-color: aqua;
+}
+.myPara {
+    background-color: yellow;
+    color: black;
+}
+
+.hello {
+    background-color: black;
+    color: white;
+}
