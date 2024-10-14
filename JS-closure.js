@@ -5,6 +5,8 @@
 //* variables that are not going to be used in the returned function, this is called the 
 //* "garbase collection"
 
+//* So A closure is a function having access to the parent scope, even after the parent function has closed.
+
 //* Example:
 function fun1() {
     let counter = 0;
