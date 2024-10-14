@@ -1,2 +1,2 @@
-# JavaScript-Intermediate
-JavaScript intermediate terms practicing.
+# JavaScript-Intermediate-and-Advanced-topics
+JavaScript intermediate and advanced terms practicing.
